@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: trans
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/file_trans
+    username: file_admin
+    password: 1234
+    
